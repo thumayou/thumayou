@@ -3,9 +3,9 @@
 Hi, I'm @thumayou !
 
 - I'm interested in food.
-- I'm currently learning IT science
+- I'm currently studying IT science
 - I love BASH
-- Fun fact: I was once a finalist in the national universary sports shooting competition.
+- Fun fact: I was once a finalist in the national university sports shooting competition.
 - Please reach me with an email.
 <!--
 **thumayou/thumayou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
