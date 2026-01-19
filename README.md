@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hello there !
 
+Hi, I'm @thumayou !
+
+-I'm interested in food.
+-I'm currently learning IT science 
+-Fun fact: I was once a finalist in the national universary sports shooting competition.
+- Please reach me with an email.
 <!--
 **thumayou/thumayou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
