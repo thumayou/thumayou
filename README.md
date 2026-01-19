@@ -3,7 +3,8 @@
 Hi, I'm @thumayou !
 
 - I'm interested in food.
-- I'm currently learning IT science 
+- I'm currently learning IT science
+- I love BASH
 - Fun fact: I was once a finalist in the national universary sports shooting competition.
 - Please reach me with an email.
 <!--
